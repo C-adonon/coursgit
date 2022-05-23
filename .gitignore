@@ -1,0 +1,8 @@
+# exlure un fichier
+secret.txt
+
+# exclure les fichiers avec une extension particulière
+*.log
+
+# exclure un dossier
+/sass/
